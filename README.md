@@ -59,3 +59,4 @@
 ## Ресурсы
 - Полный отчет об аудите: [Audit_Report.pdf](./Audit_Report.pdf)
 - Примеры сценариев атак с использованием `hping3` и `hydra`: см. `scripts/`
+- Скриншоты: см. `screenshots/`
